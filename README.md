@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Alyssa 👋
 
-<!--
-**alyssanicoletech-cyberstar/alyssanicoletech-cyberstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied AI Engineer • LLMs • RAG • Agentic Systems  
+Linguistics + Cognitive Science + Full‑Stack LLM Engineering
 
-Here are some ideas to get you started:
+🔭 I build:
+- Agentic AI systems
+- RAG pipelines
+- LLM evaluation + safety tools
+- Fine‑tuned models (SFT, DPO, RLAIF)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently working on:
+- Cognitive‑Linguistic Reasoning Evaluator & Agentic Tutor
+
+📫 Connect with me:
+LinkedIn: <your link>
+
