@@ -1,4 +1,8 @@
-I used to build knowledge systems and user experiences that helped clients drive learning forward at scale. I now build training pipelines for LLMs to optimize their inference in given use cases. I think about use cases first and then I engineer the LLM training pipeline. I use Python programs as connectors, Transformers as engines, and data as curriculum that powers LLM inference. My multi-disciplinary foundation in Graduate Research, Cognitive Science, UX Design, Python-Programming Language, Natural Language Processing, Computational Linguistics and Machine Learning Applications is useful for AI systems thinking.
+I am Alyssa Nicole. I use a multi-disciplinary foundation in Graduate Research, Cognitive Science, UX Design, Python-Programming Language, Natural Language Processing, Computational Linguistics and Machine Learning Applications for LLM training engineering. I use Python programs as connectors, Transformers as engines, and data as curriculum that powers LLM inference. 
+
+My LLM use cases are centered on optimizing and customizing inference for LLMs when encoountering nuance in human language; namely, satire, irony, nuance, professionalism-formalities, vagueness, ambiguity, sarcasm & mixed sentiment
+
+My contribution is architecture for training pipelines for LLMs that optimize their inference in for stated use cases. 
 
 A Snapshot of my LLM Pipeline 
 
