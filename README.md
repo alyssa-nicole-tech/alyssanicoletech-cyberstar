@@ -1,22 +1,33 @@
 I am Alyssa Nicole. I use a multi-disciplinary foundation in Graduate Research, Cognitive Science, UX Design, Python-Programming Language, Natural Language Processing, Computational Linguistics and Machine Learning Applications for LLM training engineering. I use Python programs as connectors, Transformers as engines, and data as curriculum that powers LLM inference. 
 
-My LLM use cases are centered on optimizing and customizing inference for LLMs when encoountering nuance in human language; namely, satire, irony, nuance, professionalism-formalities, vagueness, ambiguity, sarcasm & mixed sentiment
+My repositories are for housing training pipelines and metrics on specified use cases. 
+The LLM use cases are centered on optimizing LLM inference given nuances in human language i.e satire, irony, nuance, professionalism, vagueness, ambiguity, sarcasm & mixed sentiment
 
-My contribution is architecture for training pipelines for LLMs that optimize their inference in for stated use cases. 
+A Snapshot of my General LLM Pipeline 
 
-A Snapshot of my LLM Pipeline 
+Phase 1: Data Engineering
 
 DATA CURATION            
 Raw media sources are identified in storage containers, web domains, public databases, or datasets 
-            
+                                  V      
 DATA INGESTION      
 Raw media files are extracted ->converted into text ->saved in a cloud storage warehouse
-      
+                                  V                                        
 DATA CLEANING & STRUCTURING
-Warehouse files are cleaned & structured in Python or SQL Environments
-
+Warehouse files are cleaned & structured in Python or SQL Environments 
+                                  V
 DATA LABELING
-Python & SQL datasets are merged together into one dataset and labeled for LLM training                            V
+Python & SQL datasets are merged together into one dataset and labeled for LLM training
+                                  V
+Phase 2: LLM Engineering
 
-LLM TRAINING 
-JSON Scripts + Prompts + Transformers utilize the dataset for training LLMs
+                                  V
+DATA DEPLOYMENT
+% of Dataset is integrated as curriculum / supervision / unsupervised examples in JSON Scripts + Prompts in Transformer (LLM) Training Sessions with PyTorch Frameworks
+                                  V
+
+FEEDBACK & ADJUSTMENTS
+LLM is monitored and adjusted in training session for training loss 
+                                  V
+DATA TESTING
+% of Dataset is used for testing the LLM on acquisition of training goals before containerization, deployment, and RAG integration
