@@ -1,6 +1,6 @@
-I am Alyssa Nicole. I use a multi-disciplinary foundation in Applied Graduate Research, Cognitive Science, UX Design, Python-Programming Language, Natural Language Processing, and Machine Learning Applications to think in layers of LLM inference. I use Python programs as connectors, Transformers as engines, and data as curriculum for Transformer training. My repositories are for housing training pipelines and metrics on specified LLM use cases. The use cases are centered on optimal LLM inference given complex patterns in human language i.e satire, irony, nuance, vagueness, ambiguity, sarcasm & mixed sentiment.
+I am Alyssa Nicole. I use a multi-disciplinary foundation in Applied Graduate Research, Cognitive Science, UX Design, Python-Programming Language, Natural Language Processing, and Machine Learning Applications to think in layers of LLM inference. I use Python programs as connectors, Transformers as engines, and data as curriculum for Transformer training. My GitHub is for housing LLM training pipelines and metrics on use cases. 
 
-A Snapshot of my General LLM Pipeline 
+A Snapshot of my LLM Pipeline 
 
 Phase 1: Data Engineering
 
