@@ -16,6 +16,6 @@ Phase 2 - LLM Training
 
 LLM TRAINING   ---% of dataset is integrated in Transformer Training Sessions as curriculum-examples
                                                                     
-Phase 3 - LLM Post Training
+Phase 3 - LLM Post Training Evaluation
 
-LLM EVALUATION ---% of dataset is used for evaluating the LLM on acquisition of training goals 
+LLM GOALS EVAL ---% of dataset is used for evaluating the LLM on acquisition of training goals 
