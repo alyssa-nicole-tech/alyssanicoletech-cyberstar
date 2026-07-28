@@ -10,12 +10,12 @@ DATA INGESTION ---Raw media files are extracted and saved in cloud storage wareh
 
 DATA CLEANING  ---Warehouse files are cleaned & re-structured in Python / SQL Environments 
 
-DATA LABELING  ---Dataset is labeled for LLM training
+DATA LABELING  ---Datasets are labeled for LLM training 
                                                                       
 Phase 2 - LLM Training   
 
-LLM TRAINING   ---% of dataset is integrated in Transformer Training Sessions as curriculum-examples
+LLM TRAINING   ---% of each dataset is integrated in Transformer Training as curriculum-examples
                                                                     
 Phase 3 - LLM Post Training Evaluation
 
-LLM GOALS EVAL ---% of dataset is used for evaluating the LLM on acquisition of training goals 
+LLM GOALS EVAL ---% of dataset of each is used for evaluating the LLM on acquisition of training goals
