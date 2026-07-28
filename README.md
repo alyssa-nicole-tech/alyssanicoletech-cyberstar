@@ -1,21 +1,27 @@
 I am Alyssa Nicole. I use a multi-disciplinary foundation in Applied Graduate Research, Cognitive Science, UX Design, Python-Programming Language, Natural Language Processing, and Machine Learning Applications to think in layers of LLM inference. I use Python programs as connectors, Transformers as engines, and data as curriculum to execute tasks in the LLM training pipeline. My GitHub is for housing LLM code executions, and metrics. 
 
-A Snapshot of my LLM Pipeline 
+A Snapshot of my LLM Engineering Pipeline
 
-Phase 1: Data 
+Phase 1 - LLM Data Engineering
+                                       
+DATA CURATION            
+Raw media sources are identified in web domains, databases, or published datasets 
+                                     V      
+DATA INGESTION      
+Raw media files are extracted ->converted into text ->saved in a cloud storage warehouse
+                                     V                                          
+DATA CLEANING 
+Warehouse files are cleaned & structured in Python or SQL Environments 
+                                     V
+DATA LABELING
+Python & SQL datasets are merged together into one dataset and labeled for LLM training
+                                     V
+                                       
+Phase 2 - LLM Training                                    
 
-DATA CURATION: Raw media sources are identified in storage containers, web domains, public databases, or datasets 
-                                    
-DATA INGESTION: Raw media files are extracted ->converted into text ->saved in a cloud storage warehouse
-                                                                       
-DATA CLEANING & STRUCTURING: Warehouse files are cleaned & structured in Python or SQL Environments 
+LLM TRAINING INTEGRATION: % of dataset is integrated in Transformer Training Sessions as curriculum-examples
+                                     V
                                  
-DATA LABELING: Python & SQL datasets are merged together into one dataset and labeled for LLM training
-                                  
-Phase 2: LLM Training 
-                                  
-LLM-DATA INTEGRATION: % of Dataset is integrated in Transformer Training Sessions as curriculum-examples   
+Phase 3 - LLM Post Training
 
-Phase 3: LLM Pre-Deployment
-                                  
-LLM-DATA EVALUATION: % of Dataset is used for testing the LLM on acquisition of training goals before containerization, deployment, and RAG integration
+LLM-DATA EVALUATION: % of dataset is used for evaluating the LLM on acquisition of training goals 
