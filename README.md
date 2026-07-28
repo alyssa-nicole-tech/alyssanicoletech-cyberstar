@@ -2,7 +2,7 @@ I am Alyssa Nicole. I use a multi-disciplinary foundation in Applied Graduate Re
 
 A Snapshot of my LLM Pipeline 
 
-Phase 1: Data Engineering
+Phase 1: Data 
 
 DATA CURATION: Raw media sources are identified in storage containers, web domains, public databases, or datasets 
                                     
@@ -12,10 +12,10 @@ DATA CLEANING & STRUCTURING: Warehouse files are cleaned & structured in Python 
                                  
 DATA LABELING: Python & SQL datasets are merged together into one dataset and labeled for LLM training
                                   
-Phase 2: LLM Engineering
+Phase 2: LLM Training 
                                   
-DATA DEPLOYMENT: % of Dataset is integrated as curriculum / supervision / unsupervised examples in JSON Scripts + Prompts in Transformer (LLM) Training Sessions with PyTorch Frameworks
+LLM-DATA INTEGRATION: % of Dataset is integrated in Transformer Training Sessions as curriculum-examples   
+
+Phase 3: LLM Pre-Deployment
                                   
-LLM TUNING & ADJUSTMENTS: LLM is monitored and adjusted in training session 
-                                  
-DATA TESTING: % of Dataset is used for testing the LLM on acquisition of training goals before containerization, deployment, and RAG integration
+LLM-DATA EVALUATION: % of Dataset is used for testing the LLM on acquisition of training goals before containerization, deployment, and RAG integration
