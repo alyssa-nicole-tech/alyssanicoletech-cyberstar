@@ -8,9 +8,9 @@ DATA CURATION   Raw media sources are identified in web domains, databases, or 
 
 DATA INGESTION  Raw media files are extracted and saved in cloud storage warehouses
 
-DATA CLEANING   Warehouse files are cleaned & re-structured in Python / SQL Environments 
+DATA CLEANING    Warehouse files are cleaned & re-structured in Python / SQL Environments 
 
-DATA LABELING   Dataset is labeled for LLM training
+DATA LABELING    Dataset is labeled for LLM training
                                                                       
 Phase 2 - LLM Training   
 
