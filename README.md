@@ -4,13 +4,13 @@ A Snapshot of my LLM Engineering Pipeline
 
 Phase 1 - LLM Data Engineering
                                        
-DATA CURATION  Raw media sources are identified in web domains, databases, or published datasets
+DATA CURATION   Raw media sources are identified in web domains, databases, or published datasets
 
-DATA INGESTION Raw media files are extracted ->converted into text ->saved in a cloud storage warehouse
+DATA INGESTION  Raw media files are extracted and saved in cloud storage warehouses
 
-DATA CLEANING  Warehouse files are cleaned & structured in Python or SQL Environments 
+DATA CLEANING   Warehouse files are cleaned & re-structured in Python / SQL Environments 
 
-DATA LABELING  Python & SQL datasets are merged together into one dataset and labeled for LLM training
+DATA LABELING   Dataset is labeled for LLM training
                                                                       
 Phase 2 - LLM Training   
 
