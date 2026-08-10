@@ -2,7 +2,9 @@ I am Alyssa Nicole. I use a multi-disciplinary foundation in Applied Graduate Re
 
 A Snapshot of my LLM Engineering Pipeline
 
-Phase 1 - LLM Data Engineering
+Phase 1 - LLM Data Preprocessing
+
+I evaluate patterns of complex sociolinguistic data that often stifle large language models during user prompted tasks:
                                        
 DATA CURATION  ---Raw media sources are identified in web domains, databases, or published datasets
 
@@ -18,4 +20,20 @@ LLM TRAINING   ---% of each dataset is integrated in Transformer Training as cur
                                                                     
 Phase 3 - LLM Post Training Evaluation
 
-LLM GOALS EVAL ---% of dataset of each is used for evaluating the LLM on acquisition of training goals
+LLM GOALS EVAL ---% of dataset of each is used for evaluating the LLM on acquisition of training goals:
+
+~mixed-sentiment analysis
+
+~identity-centered word usage
+
+~phonological intent or phonologically‑driven cues
+
+~rhetorical intent
+
+~syntax classification
+
+~semantic vagueness 
+
+
+
+I validate datasets while training models using PyTorch, TensorFlow, JAX, HF, PEFT, and LoRA frameworks then evaluate post-training improvements on targeted tasks.
