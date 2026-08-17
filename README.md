@@ -26,4 +26,4 @@ Phase 3 - LLM Post Training Evaluation
 
 LLM GOALS EVAL ---% of dataset of each is used for evaluating the LLM on acquisition of training goals:
 
-I validate datasets while training models using PyTorch, TensorFlow, JAX, HF, PEFT, and LoRA frameworks then evaluate post-training improvements on targeted tasks.
+I validate datasets for training models using PyTorch, TensorFlow, JAX, HF, PEFT, and LoRA frameworks then evaluate post-training improvements on targeted tasks.
