@@ -1,6 +1,10 @@
-I am Alyssa Nicole. I use a multi-disciplinary foundation in Applied Graduate Research, Cognitive Science, UX Design, Python-Programming Language, Natural Language Processing, and Machine Learning Applications to think in layers of LLM inference. I use Python libraries, Transformers, and data to execute tasks in the LLM training pipeline. My GitHub is for housing LLM data sources, code, and metrics. 
+I am Alyssa Nicole. I enable easier understanding of complex technical material, platforms, and workflows. I am an award-winning instructional designer for my innovation in knowledge capture, storage and retrieval for organizational agency. I have a strong foundation in Cognitive Science, UX Design, and Technical Writing which are all necessary to support technical enablement for diverse cross-functional users. 
 
-A Snapshot of my LLM Engineering Pipeline
+I have primarily partnered with technical subject experts to transform complex workflows into clean, scalable, and engaging user guidance. My client's needs have included developer workflows (Docker, PagerDuty, CI/CD operations), construction engineering fundamentals (safety protocols walk-throughs, heavy vehicle operation), and advanced manufacturing (autonomous delivery cart design). 
+
+I additionally use my multi-disciplinary foundation with Python-Programming Language, Natural Language Processing, and Machine Learning Applications support Learning Innovation for LLM inference. My GitHub is primarily for housing ELT pipelines for learning metrics, training runs for open-source models, and RAG documentation pipelines. 
+
+A Snapshot of my Engineering Pipeline
 
 Phase 1 - LLM Data Preprocessing
 
@@ -21,19 +25,5 @@ LLM TRAINING   ---% of each dataset is integrated in Transformer Training as cur
 Phase 3 - LLM Post Training Evaluation
 
 LLM GOALS EVAL ---% of dataset of each is used for evaluating the LLM on acquisition of training goals:
-
-~mixed-sentiment analysis
-
-~identity-centered word usage
-
-~phonological intent or phonologically‑driven cues
-
-~rhetorical intent
-
-~syntax classification
-
-~semantic vagueness 
-
-
 
 I validate datasets while training models using PyTorch, TensorFlow, JAX, HF, PEFT, and LoRA frameworks then evaluate post-training improvements on targeted tasks.
