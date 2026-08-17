@@ -2,7 +2,7 @@ I am Alyssa Nicole. I enable easier understanding of complex technical material,
 
 I have primarily partnered with technical subject experts to transform complex workflows into clean, scalable, and engaging user guidance. My client's needs have included developer workflows (Docker, PagerDuty, CI/CD operations), construction engineering fundamentals (safety protocols walk-throughs, heavy vehicle operation), and advanced manufacturing (autonomous delivery cart design). 
 
-I additionally use my multi-disciplinary foundation with Python-Programming Language, Natural Language Processing, and Machine Learning Applications support Learning Innovation for LLM inference. My GitHub is primarily for housing ELT pipelines for learning metrics, training runs for open-source models, and RAG documentation pipelines. 
+I additionally use my multi-disciplinary foundation with Python-Programming Language, Natural Language Processing, and Machine Learning Applications for innovating Digital Learning Experiences using GenAI. My GitHub is primarily for housing ELT pipelines for learning metrics, training runs for open-source models, and RAG documentation pipelines. 
 
 A Snapshot of my Engineering Pipeline
 
