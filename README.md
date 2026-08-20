@@ -1,27 +1,13 @@
-I am Alyssa Nicole. I enable easier understanding of complex technical material, platforms, and workflows. I am an award-winning instructional designer for my innovation in knowledge capture, storage and retrieval for organizational agency. I have a strong foundation in Cognitive Science, UX Design, and Technical Writing which are all necessary to support technical enablement for diverse cross-functional users. 
+I am Alyssa Nicole. I enable easier understanding of complex technical material, platforms, and workflows. I am an award-winning instructional designer for my innovation in knowledge capture, storage and retrieval. I have a strong foundation in Cognitive Science, UX Design, and Technical Writing which are all necessary for technical enablement of diverse cross-functional users.  My GitHub houses the Platform and Data Engineering side of my work as a Learning Systems Architect. Take a look at my repositories and feel free to reach out to learn more about my engineering specialty. 
 
-I additionally use my multi-disciplinary foundation with Python-Programming Language, Natural Language Processing, and Machine Learning Applications for innovating Digital Learning Experiences using GenAI. My GitHub is primarily for housing ELT pipelines for learning metrics, training runs for open-source models, and RAG documentation pipelines. 
+Engineering Pipeline
 
-A Snapshot of my Engineering Pipeline
+1. LLM Evaluation:  linguistic patterns that stifle large language models are evaluated and identified for additional training opportunities
 
-Phase 1 - LLM Data Preprocessing
-
-I evaluate patterns of complex sociolinguistic data that often stifle large language models during user prompted tasks:
-                                       
-DATA CURATION  ---Raw media sources are identified in web domains, databases, or published datasets
-
-DATA INGESTION ---Raw media files are extracted and saved in cloud storage warehouses
-
-DATA CLEANING  ---Warehouse files are cleaned & re-structured in Python / SQL Environments 
-
-DATA LABELING  ---Datasets are labeled for LLM training 
-                                                                      
-Phase 2 - LLM Training   
-
-LLM TRAINING   ---% of each dataset is integrated in Transformer Training as curriculum-examples
+2. LLM Dataset Design: linguistic patterns are identified in language example sources
+                                                                                                           
+3. LLM TRAINING: % of each dataset is integrated in transformer training and the large language model is trained with framweorks (PyTorch, TensorFlow, JAX, HF, PEFT, and LoRA).
                                                                     
-Phase 3 - LLM Post Training Evaluation
+4. LLM Post Training Evaluation: % of dataset is used for evaluating the LLM on acquisition of training agenda
 
-LLM GOALS EVAL ---% of dataset of each is used for evaluating the LLM on acquisition of training goals:
 
-I validate datasets for training models using PyTorch, TensorFlow, JAX, HF, PEFT, and LoRA frameworks then evaluate post-training improvements on targeted tasks.
