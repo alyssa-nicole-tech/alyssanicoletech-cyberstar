@@ -1,4 +1,4 @@
-I am Alyssa Nicole. I enable easier understanding of complex technical material, platforms, and workflows. I am an award-winning instructional designer for my innovation in knowledge capture, storage and retrieval. I have a strong foundation in Cognitive Science, UX Design, and Technical Writing which are all necessary for technical enablement of diverse cross-functional users.  My GitHub houses the Platform and Data Engineering side of my work as a Learning Systems Architect. Take a look at my repositories and feel free to reach out to learn more about my engineering specialty. 
+I enable easier understanding of complex technical material, platforms, and workflows. I am an award-winning instructional designer for my innovation in knowledge capture, storage and retrieval. I have a strong foundation in Cognitive Science, UX Design, and Technical Writing which are all necessary for technical enablement of diverse cross-functional users.  My GitHub houses the Platform and Data Engineering side of my work as a Learning Systems Architect. Take a look at my repositories and feel free to reach out to learn more about my engineering specialty. 
 
 Engineering Pipeline
 
