@@ -1,4 +1,4 @@
-My GitHub houses the Platform and Data Engineering side of my work as a Learning Systems Architect. Take a look at my repositories and feel free to reach out to learn more about my engineering specialty. 
+My GitHub houses the Platform and NLP Engineering side of my work as a Learning Systems Architect. Take a look at my repositories and feel free to reach out to learn more about my engineering specialty. 
 
 Engineering Pipeline
 
