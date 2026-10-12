@@ -1,4 +1,4 @@
 
-My GitHub houses generic NLP Engines, LLM Engines, Agent Engines, User Experience - User Interface, & Platform code. 
+My GitHub houses all of my personal repositories. 
 
-Take a look at my repositories and feel free to reach out on LinkedIn to learn more about my engineering specialty. 
+Feel free to reach out on LinkedIn to learn more about my engineering specialty. 
